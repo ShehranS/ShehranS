@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ShehranS
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m ShehranS
+- 👀 I’m interested in cloud tech & AI/ML
+- 🌱 I’m currently learning ML
+- 💞️ I’m looking to collaborate on Health tech & zero e-waste
+- 📫 How to reach me : shehranshaikh@gmail.com
 
 <!---
 ShehranS/ShehranS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
